@@ -1,0 +1,3755 @@
+entries:
+- grapheme: aa
+  phonemes:
+  - aa
+  - _aa
+- grapheme: a
+  phonemes:
+  - a
+  - _a
+- grapheme: e
+  phonemes:
+  - e
+  - _e
+- grapheme: o
+  phonemes:
+  - o
+  - _o
+- grapheme: i
+  phonemes:
+  - i
+  - _i
+- grapheme: u
+  phonemes:
+  - u
+  - _u
+- grapheme: hm
+  phonemes:
+  - hm
+  - _m
+- grapheme: hng
+  phonemes:
+  - hng
+  - _ng
+- grapheme: aai
+  phonemes:
+  - aai
+  - _aai
+- grapheme: aau
+  phonemes:
+  - aau
+  - _aau
+- grapheme: aam
+  phonemes:
+  - aam
+  - _aam
+- grapheme: aan
+  phonemes:
+  - aan
+  - _aan
+- grapheme: aang
+  phonemes:
+  - aang
+  - _aang
+- grapheme: aap
+  phonemes:
+  - aap
+  - _aap
+- grapheme: aat
+  phonemes:
+  - aat
+  - _aat
+- grapheme: aak
+  phonemes:
+  - aak
+  - _aak
+- grapheme: ai
+  phonemes:
+  - ai
+  - _ai
+- grapheme: au
+  phonemes:
+  - au
+  - _au
+- grapheme: am
+  phonemes:
+  - am
+  - _am
+- grapheme: an
+  phonemes:
+  - an
+  - _an
+- grapheme: ang
+  phonemes:
+  - ang
+  - _ang
+- grapheme: ap
+  phonemes:
+  - ap
+  - _ap
+- grapheme: ak
+  phonemes:
+  - ak
+  - _ak
+- grapheme: ei
+  phonemes:
+  - ei
+  - _ei
+- grapheme: oi
+  phonemes:
+  - oi
+  - _oi
+- grapheme: ou
+  phonemes:
+  - ou
+  - _ou
+- grapheme: on
+  phonemes:
+  - on
+  - _on
+- grapheme: ong
+  phonemes:
+  - ong
+  - _ong
+- grapheme: ok
+  phonemes:
+  - ok
+  - _ok
+- grapheme: ung
+  phonemes:
+  - ung
+  - _ung
+- grapheme: uk
+  phonemes:
+  - uk
+  - _uk
+- grapheme: baai
+  phonemes:
+  - baai
+  - _aai
+- grapheme: baau
+  phonemes:
+  - baau
+  - _aau
+- grapheme: baan
+  phonemes:
+  - baan
+  - _aan
+- grapheme: baang
+  phonemes:
+  - baang
+  - _aang
+- grapheme: baat
+  phonemes:
+  - baat
+  - _aat
+- grapheme: baak
+  phonemes:
+  - baak
+  - _aak
+- grapheme: bai
+  phonemes:
+  - bai
+  - _ai
+- grapheme: bau
+  phonemes:
+  - bau
+  - _au
+- grapheme: bam
+  phonemes:
+  - bam
+  - _am
+- grapheme: ban
+  phonemes:
+  - ban
+  - _an
+- grapheme: bang
+  phonemes:
+  - bang
+  - _ang
+- grapheme: bat
+  phonemes:
+  - bat
+  - _at
+- grapheme: bak
+  phonemes:
+  - bak
+  - _ak
+- grapheme: bei
+  phonemes:
+  - bei
+  - _ei
+- grapheme: beng
+  phonemes:
+  - beng
+  - _eng
+- grapheme: bek
+  phonemes:
+  - bek
+  - _ek
+- grapheme: bin
+  phonemes:
+  - bin
+  - _in
+- grapheme: bing
+  phonemes:
+  - bing
+  - _ing
+- grapheme: bit
+  phonemes:
+  - bit
+  - _it
+- grapheme: bik
+  phonemes:
+  - bik
+  - _ik
+- grapheme: bou
+  phonemes:
+  - bou
+  - _ou
+- grapheme: bong
+  phonemes:
+  - bong
+  - _ong
+- grapheme: bok
+  phonemes:
+  - bok
+  - _ok
+- grapheme: bui
+  phonemes:
+  - bui
+  - _ui
+- grapheme: bun
+  phonemes:
+  - bun
+  - _un
+- grapheme: bung
+  phonemes:
+  - bung
+  - _ung
+- grapheme: but
+  phonemes:
+  - but
+  - _ut
+- grapheme: buk
+  phonemes:
+  - buk
+  - _uk
+- grapheme: paai
+  phonemes:
+  - paai
+  - _aai
+- grapheme: paau
+  phonemes:
+  - paau
+  - _aau
+- grapheme: paan
+  phonemes:
+  - paan
+  - _aan
+- grapheme: paang
+  phonemes:
+  - paang
+  - _aang
+- grapheme: paak
+  phonemes:
+  - paak
+  - _aak
+- grapheme: pai
+  phonemes:
+  - pai
+  - _ai
+- grapheme: pau
+  phonemes:
+  - pau
+  - _au
+- grapheme: pan
+  phonemes:
+  - pan
+  - _an
+- grapheme: pang
+  phonemes:
+  - pang
+  - _ang
+- grapheme: pat
+  phonemes:
+  - pat
+  - _at
+- grapheme: pei
+  phonemes:
+  - pei
+  - _ei
+- grapheme: peng
+  phonemes:
+  - peng
+  - _eng
+- grapheme: pek
+  phonemes:
+  - pek
+  - _ek
+- grapheme: pin
+  phonemes:
+  - pin
+  - _in
+- grapheme: ping
+  phonemes:
+  - ping
+  - _ing
+- grapheme: pit
+  phonemes:
+  - pit
+  - _it
+- grapheme: pik
+  phonemes:
+  - pik
+  - _ik
+- grapheme: poi
+  phonemes:
+  - poi
+  - _oi
+- grapheme: pou
+  phonemes:
+  - pou
+  - _ou
+- grapheme: pong
+  phonemes:
+  - pong
+  - _ong
+- grapheme: pok
+  phonemes:
+  - pok
+  - _ok
+- grapheme: pui
+  phonemes:
+  - pui
+  - _ui
+- grapheme: pun
+  phonemes:
+  - pun
+  - _un
+- grapheme: pung
+  phonemes:
+  - pung
+  - _ung
+- grapheme: put
+  phonemes:
+  - put
+  - _ut
+- grapheme: puk
+  phonemes:
+  - puk
+  - _uk
+- grapheme: maai
+  phonemes:
+  - maai
+  - _aai
+- grapheme: maau
+  phonemes:
+  - maau
+  - _aau
+- grapheme: maan
+  phonemes:
+  - maan
+  - _aan
+- grapheme: maang
+  phonemes:
+  - maang
+  - _aang
+- grapheme: maat
+  phonemes:
+  - maat
+  - _aat
+- grapheme: maak
+  phonemes:
+  - maak
+  - _aak
+- grapheme: mai
+  phonemes:
+  - mai
+  - _ai
+- grapheme: mau
+  phonemes:
+  - mau
+  - _au
+- grapheme: man
+  phonemes:
+  - man
+  - _an
+- grapheme: mang
+  phonemes:
+  - mang
+  - _ang
+- grapheme: mat
+  phonemes:
+  - mat
+  - _at
+- grapheme: mak
+  phonemes:
+  - mak
+  - _ak
+- grapheme: mei
+  phonemes:
+  - mei
+  - _ei
+- grapheme: meng
+  phonemes:
+  - meng
+  - _eng
+- grapheme: min
+  phonemes:
+  - min
+  - _in
+- grapheme: ming
+  phonemes:
+  - ming
+  - _ing
+- grapheme: mit
+  phonemes:
+  - mit
+  - _it
+- grapheme: mik
+  phonemes:
+  - mik
+  - _ik
+- grapheme: mou
+  phonemes:
+  - mou
+  - _ou
+- grapheme: mong
+  phonemes:
+  - mong
+  - _ong
+- grapheme: mok
+  phonemes:
+  - mok
+  - _ok
+- grapheme: mui
+  phonemes:
+  - mui
+  - _ui
+- grapheme: mun
+  phonemes:
+  - mun
+  - _un
+- grapheme: mung
+  phonemes:
+  - mung
+  - _ung
+- grapheme: mut
+  phonemes:
+  - mut
+  - _ut
+- grapheme: muk
+  phonemes:
+  - muk
+  - _uk
+- grapheme: faai
+  phonemes:
+  - faai
+  - _aai
+- grapheme: faan
+  phonemes:
+  - faan
+  - _aan
+- grapheme: faat
+  phonemes:
+  - faat
+  - _aat
+- grapheme: faak
+  phonemes:
+  - faak
+  - _aak
+- grapheme: fai
+  phonemes:
+  - fai
+  - _ai
+- grapheme: fau
+  phonemes:
+  - fau
+  - _au
+- grapheme: fan
+  phonemes:
+  - fan
+  - _an
+- grapheme: fang
+  phonemes:
+  - fang
+  - _ang
+- grapheme: fat
+  phonemes:
+  - fat
+  - _at
+- grapheme: fei
+  phonemes:
+  - fei
+  - _ei
+- grapheme: fong
+  phonemes:
+  - fong
+  - _ong
+- grapheme: fok
+  phonemes:
+  - fok
+  - _ok
+- grapheme: fui
+  phonemes:
+  - fui
+  - _ui
+- grapheme: fun
+  phonemes:
+  - fun
+  - _un
+- grapheme: fung
+  phonemes:
+  - fung
+  - _ung
+- grapheme: fut
+  phonemes:
+  - fut
+  - _ut
+- grapheme: fuk
+  phonemes:
+  - fuk
+  - _uk
+- grapheme: daai
+  phonemes:
+  - daai
+  - _aai
+- grapheme: daam
+  phonemes:
+  - daam
+  - _aam
+- grapheme: daan
+  phonemes:
+  - daan
+  - _aan
+- grapheme: daap
+  phonemes:
+  - daap
+  - _aap
+- grapheme: daat
+  phonemes:
+  - daat
+  - _aat
+- grapheme: daak
+  phonemes:
+  - daak
+  - _aak
+- grapheme: dai
+  phonemes:
+  - dai
+  - _ai
+- grapheme: dau
+  phonemes:
+  - dau
+  - _au
+- grapheme: dam
+  phonemes:
+  - dam
+  - _am
+- grapheme: dan
+  phonemes:
+  - dan
+  - _an
+- grapheme: dang
+  phonemes:
+  - dang
+  - _ang
+- grapheme: dap
+  phonemes:
+  - dap
+  - _ap
+- grapheme: dat
+  phonemes:
+  - dat
+  - _at
+- grapheme: dak
+  phonemes:
+  - dak
+  - _ak
+- grapheme: dei
+  phonemes:
+  - dei
+  - _ei
+- grapheme: deu
+  phonemes:
+  - deu
+  - _eu
+- grapheme: deng
+  phonemes:
+  - deng
+  - _eng
+- grapheme: dek
+  phonemes:
+  - dek
+  - _ek
+- grapheme: dim
+  phonemes:
+  - dim
+  - _im
+- grapheme: din
+  phonemes:
+  - din
+  - _in
+- grapheme: ding
+  phonemes:
+  - ding
+  - _ing
+- grapheme: dip
+  phonemes:
+  - dip
+  - _ip
+- grapheme: dit
+  phonemes:
+  - dit
+  - _it
+- grapheme: dik
+  phonemes:
+  - dik
+  - _ik
+- grapheme: doi
+  phonemes:
+  - doi
+  - _oi
+- grapheme: dou
+  phonemes:
+  - dou
+  - _ou
+- grapheme: dong
+  phonemes:
+  - dong
+  - _ong
+- grapheme: dok
+  phonemes:
+  - dok
+  - _ok
+- grapheme: doek
+  phonemes:
+  - doek
+  - _oek
+- grapheme: deoi
+  phonemes:
+  - deoi
+  - _eoi
+- grapheme: deon
+  phonemes:
+  - deon
+  - _eon
+- grapheme: deot
+  phonemes:
+  - deot
+  - _eot
+- grapheme: dung
+  phonemes:
+  - dung
+  - _ung
+- grapheme: duk
+  phonemes:
+  - duk
+  - _uk
+- grapheme: dyun
+  phonemes:
+  - dyun
+  - _yun
+- grapheme: dyut
+  phonemes:
+  - dyut
+  - _yut
+- grapheme: taai
+  phonemes:
+  - taai
+  - _aai
+- grapheme: taam
+  phonemes:
+  - taam
+  - _aam
+- grapheme: taan
+  phonemes:
+  - taan
+  - _aan
+- grapheme: taap
+  phonemes:
+  - taap
+  - _aap
+- grapheme: taat
+  phonemes:
+  - taat
+  - _aat
+- grapheme: tai
+  phonemes:
+  - tai
+  - _ai
+- grapheme: tau
+  phonemes:
+  - tau
+  - _au
+- grapheme: tam
+  phonemes:
+  - tam
+  - _am
+- grapheme: tan
+  phonemes:
+  - tan
+  - _an
+- grapheme: tang
+  phonemes:
+  - tang
+  - _ang
+- grapheme: teng
+  phonemes:
+  - teng
+  - _eng
+- grapheme: tek
+  phonemes:
+  - tek
+  - _ek
+- grapheme: tim
+  phonemes:
+  - tim
+  - _im
+- grapheme: tin
+  phonemes:
+  - tin
+  - _in
+- grapheme: ting
+  phonemes:
+  - ting
+  - _ing
+- grapheme: tip
+  phonemes:
+  - tip
+  - _ip
+- grapheme: tit
+  phonemes:
+  - tit
+  - _it
+- grapheme: tik
+  phonemes:
+  - tik
+  - _ik
+- grapheme: toi
+  phonemes:
+  - toi
+  - _oi
+- grapheme: tou
+  phonemes:
+  - tou
+  - _ou
+- grapheme: tong
+  phonemes:
+  - tong
+  - _ong
+- grapheme: tok
+  phonemes:
+  - tok
+  - _ok
+- grapheme: teoi
+  phonemes:
+  - teoi
+  - _eoi
+- grapheme: teon
+  phonemes:
+  - teon
+  - _eon
+- grapheme: tung
+  phonemes:
+  - tung
+  - _ung
+- grapheme: tuk
+  phonemes:
+  - tuk
+  - _uk
+- grapheme: tyun
+  phonemes:
+  - tyun
+  - _yun
+- grapheme: tyut
+  phonemes:
+  - tyut
+  - _yut
+- grapheme: naai
+  phonemes:
+  - naai
+  - _aai
+- grapheme: naau
+  phonemes:
+  - naau
+  - _aau
+- grapheme: naam
+  phonemes:
+  - naam
+  - _aam
+- grapheme: naan
+  phonemes:
+  - naan
+  - _aan
+- grapheme: naap
+  phonemes:
+  - naap
+  - _aap
+- grapheme: naat
+  phonemes:
+  - naat
+  - _aat
+- grapheme: nai
+  phonemes:
+  - nai
+  - _ai
+- grapheme: nau
+  phonemes:
+  - nau
+  - _au
+- grapheme: nam
+  phonemes:
+  - nam
+  - _am
+- grapheme: nan
+  phonemes:
+  - nan
+  - _an
+- grapheme: nang
+  phonemes:
+  - nang
+  - _ang
+- grapheme: nap
+  phonemes:
+  - nap
+  - _ap
+- grapheme: nat
+  phonemes:
+  - nat
+  - _at
+- grapheme: nei
+  phonemes:
+  - nei
+  - _ei
+- grapheme: nim
+  phonemes:
+  - nim
+  - _im
+- grapheme: nin
+  phonemes:
+  - nin
+  - _in
+- grapheme: ning
+  phonemes:
+  - ning
+  - _ing
+- grapheme: nip
+  phonemes:
+  - nip
+  - _ip
+- grapheme: nik
+  phonemes:
+  - nik
+  - _ik
+- grapheme: noi
+  phonemes:
+  - noi
+  - _oi
+- grapheme: nou
+  phonemes:
+  - nou
+  - _ou
+- grapheme: nong
+  phonemes:
+  - nong
+  - _ong
+- grapheme: nok
+  phonemes:
+  - nok
+  - _ok
+- grapheme: noeng
+  phonemes:
+  - noeng
+  - _oeng
+- grapheme: neoi
+  phonemes:
+  - neoi
+  - _eoi
+- grapheme: neot
+  phonemes:
+  - neot
+  - _eot
+- grapheme: nung
+  phonemes:
+  - nung
+  - _ung
+- grapheme: nuk
+  phonemes:
+  - nuk
+  - _uk
+- grapheme: nyun
+  phonemes:
+  - nyun
+  - _yun
+- grapheme: laai
+  phonemes:
+  - laai
+  - _aai
+- grapheme: laau
+  phonemes:
+  - laau
+  - _aau
+- grapheme: laam
+  phonemes:
+  - laam
+  - _aam
+- grapheme: laan
+  phonemes:
+  - laan
+  - _aan
+- grapheme: laang
+  phonemes:
+  - laang
+  - _aang
+- grapheme: laap
+  phonemes:
+  - laap
+  - _aap
+- grapheme: laat
+  phonemes:
+  - laat
+  - _aat
+- grapheme: laak
+  phonemes:
+  - laak
+  - _aak
+- grapheme: lai
+  phonemes:
+  - lai
+  - _ai
+- grapheme: lau
+  phonemes:
+  - lau
+  - _au
+- grapheme: lam
+  phonemes:
+  - lam
+  - _am
+- grapheme: lang
+  phonemes:
+  - lang
+  - _ang
+- grapheme: lap
+  phonemes:
+  - lap
+  - _ap
+- grapheme: lat
+  phonemes:
+  - lat
+  - _at
+- grapheme: lak
+  phonemes:
+  - lak
+  - _ak
+- grapheme: lei
+  phonemes:
+  - lei
+  - _ei
+- grapheme: lem
+  phonemes:
+  - lem
+  - _em
+- grapheme: leng
+  phonemes:
+  - leng
+  - _eng
+- grapheme: lek
+  phonemes:
+  - lek
+  - _ek
+- grapheme: lim
+  phonemes:
+  - lim
+  - _im
+- grapheme: lin
+  phonemes:
+  - lin
+  - _in
+- grapheme: ling
+  phonemes:
+  - ling
+  - _ing
+- grapheme: lip
+  phonemes:
+  - lip
+  - _ip
+- grapheme: lit
+  phonemes:
+  - lit
+  - _it
+- grapheme: lik
+  phonemes:
+  - lik
+  - _ik
+- grapheme: loi
+  phonemes:
+  - loi
+  - _oi
+- grapheme: lou
+  phonemes:
+  - lou
+  - _ou
+- grapheme: long
+  phonemes:
+  - long
+  - _ong
+- grapheme: lok
+  phonemes:
+  - lok
+  - _ok
+- grapheme: loeng
+  phonemes:
+  - loeng
+  - _oeng
+- grapheme: loek
+  phonemes:
+  - loek
+  - _oek
+- grapheme: leoi
+  phonemes:
+  - leoi
+  - _eoi
+- grapheme: leon
+  phonemes:
+  - leon
+  - _eon
+- grapheme: leot
+  phonemes:
+  - leot
+  - _eot
+- grapheme: lung
+  phonemes:
+  - lung
+  - _ung
+- grapheme: luk
+  phonemes:
+  - luk
+  - _uk
+- grapheme: lyun
+  phonemes:
+  - lyun
+  - _yun
+- grapheme: lyut
+  phonemes:
+  - lyut
+  - _yut
+- grapheme: gaai
+  phonemes:
+  - gaai
+  - _aai
+- grapheme: gaau
+  phonemes:
+  - gaau
+  - _aau
+- grapheme: gaam
+  phonemes:
+  - gaam
+  - _aam
+- grapheme: gaan
+  phonemes:
+  - gaan
+  - _aan
+- grapheme: gaang
+  phonemes:
+  - gaang
+  - _aang
+- grapheme: gaap
+  phonemes:
+  - gaap
+  - _aap
+- grapheme: gaat
+  phonemes:
+  - gaat
+  - _aat
+- grapheme: gaak
+  phonemes:
+  - gaak
+  - _aak
+- grapheme: gai
+  phonemes:
+  - gai
+  - _ai
+- grapheme: gau
+  phonemes:
+  - gau
+  - _au
+- grapheme: gam
+  phonemes:
+  - gam
+  - _am
+- grapheme: gan
+  phonemes:
+  - gan
+  - _an
+- grapheme: gang
+  phonemes:
+  - gang
+  - _ang
+- grapheme: gap
+  phonemes:
+  - gap
+  - _ap
+- grapheme: gat
+  phonemes:
+  - gat
+  - _at
+- grapheme: gei
+  phonemes:
+  - gei
+  - _ei
+- grapheme: geng
+  phonemes:
+  - geng
+  - _eng
+- grapheme: gep
+  phonemes:
+  - gep
+  - _ep
+- grapheme: gim
+  phonemes:
+  - gim
+  - _im
+- grapheme: gin
+  phonemes:
+  - gin
+  - _in
+- grapheme: ging
+  phonemes:
+  - ging
+  - _ing
+- grapheme: gip
+  phonemes:
+  - gip
+  - _ip
+- grapheme: git
+  phonemes:
+  - git
+  - _it
+- grapheme: gik
+  phonemes:
+  - gik
+  - _ik
+- grapheme: goi
+  phonemes:
+  - goi
+  - _oi
+- grapheme: gou
+  phonemes:
+  - gou
+  - _ou
+- grapheme: gon
+  phonemes:
+  - gon
+  - _on
+- grapheme: gong
+  phonemes:
+  - gong
+  - _ong
+- grapheme: got
+  phonemes:
+  - got
+  - _ot
+- grapheme: gok
+  phonemes:
+  - gok
+  - _ok
+- grapheme: goeng
+  phonemes:
+  - goeng
+  - _oeng
+- grapheme: goek
+  phonemes:
+  - goek
+  - _oek
+- grapheme: geoi
+  phonemes:
+  - geoi
+  - _eoi
+- grapheme: gui
+  phonemes:
+  - gui
+  - _ui
+- grapheme: gun
+  phonemes:
+  - gun
+  - _un
+- grapheme: gung
+  phonemes:
+  - gung
+  - _ung
+- grapheme: guk
+  phonemes:
+  - guk
+  - _uk
+- grapheme: gyun
+  phonemes:
+  - gyun
+  - _yun
+- grapheme: gyut
+  phonemes:
+  - gyut
+  - _yut
+- grapheme: kaai
+  phonemes:
+  - kaai
+  - _aai
+- grapheme: kaau
+  phonemes:
+  - kaau
+  - _aau
+- grapheme: kaat
+  phonemes:
+  - kaat
+  - _aat
+- grapheme: kaak
+  phonemes:
+  - kaak
+  - _aak
+- grapheme: kai
+  phonemes:
+  - kai
+  - _ai
+- grapheme: kau
+  phonemes:
+  - kau
+  - _au
+- grapheme: kam
+  phonemes:
+  - kam
+  - _am
+- grapheme: kan
+  phonemes:
+  - kan
+  - _an
+- grapheme: kang
+  phonemes:
+  - kang
+  - _ang
+- grapheme: kap
+  phonemes:
+  - kap
+  - _ap
+- grapheme: kat
+  phonemes:
+  - kat
+  - _at
+- grapheme: kei
+  phonemes:
+  - kei
+  - _ei
+- grapheme: kek
+  phonemes:
+  - kek
+  - _ek
+- grapheme: kim
+  phonemes:
+  - kim
+  - _im
+- grapheme: kin
+  phonemes:
+  - kin
+  - _in
+- grapheme: king
+  phonemes:
+  - king
+  - _ing
+- grapheme: kit
+  phonemes:
+  - kit
+  - _it
+- grapheme: kik
+  phonemes:
+  - kik
+  - _ik
+- grapheme: koi
+  phonemes:
+  - koi
+  - _oi
+- grapheme: kong
+  phonemes:
+  - kong
+  - _ong
+- grapheme: kok
+  phonemes:
+  - kok
+  - _ok
+- grapheme: koeng
+  phonemes:
+  - koeng
+  - _oeng
+- grapheme: koek
+  phonemes:
+  - koek
+  - _oek
+- grapheme: keoi
+  phonemes:
+  - keoi
+  - _eoi
+- grapheme: kui
+  phonemes:
+  - kui
+  - _ui
+- grapheme: kung
+  phonemes:
+  - kung
+  - _ung
+- grapheme: kut
+  phonemes:
+  - kut
+  - _ut
+- grapheme: kuk
+  phonemes:
+  - kuk
+  - _uk
+- grapheme: kyun
+  phonemes:
+  - kyun
+  - _yun
+- grapheme: kyut
+  phonemes:
+  - kyut
+  - _yut
+- grapheme: ngaai
+  phonemes:
+  - ngaai
+  - _aai
+- grapheme: ngaau
+  phonemes:
+  - ngaau
+  - _aau
+- grapheme: ngaam
+  phonemes:
+  - ngaam
+  - _aam
+- grapheme: ngaan
+  phonemes:
+  - ngaan
+  - _aan
+- grapheme: ngaang
+  phonemes:
+  - ngaang
+  - _aang
+- grapheme: ngaak
+  phonemes:
+  - ngaak
+  - _aak
+- grapheme: ngaat
+  phonemes:
+  - ngaat
+  - _aat
+- grapheme: ngai
+  phonemes:
+  - ngai
+  - _ai
+- grapheme: ngau
+  phonemes:
+  - ngau
+  - _au
+- grapheme: ngam
+  phonemes:
+  - ngam
+  - _am
+- grapheme: ngan
+  phonemes:
+  - ngan
+  - _an
+- grapheme: ngap
+  phonemes:
+  - ngap
+  - _ap
+- grapheme: ngat
+  phonemes:
+  - ngat
+  - _at
+- grapheme: ngit
+  phonemes:
+  - ngit
+  - _it
+- grapheme: ngoi
+  phonemes:
+  - ngoi
+  - _oi
+- grapheme: ngou
+  phonemes:
+  - ngou
+  - _ou
+- grapheme: ngon
+  phonemes:
+  - ngon
+  - _on
+- grapheme: ngong
+  phonemes:
+  - ngong
+  - _ong
+- grapheme: ngok
+  phonemes:
+  - ngok
+  - _ok
+- grapheme: haai
+  phonemes:
+  - haai
+  - _aai
+- grapheme: haau
+  phonemes:
+  - haau
+  - _aau
+- grapheme: haam
+  phonemes:
+  - haam
+  - _aam
+- grapheme: haan
+  phonemes:
+  - haan
+  - _aan
+- grapheme: haang
+  phonemes:
+  - haang
+  - _aang
+- grapheme: haap
+  phonemes:
+  - haap
+  - _aap
+- grapheme: haak
+  phonemes:
+  - haak
+  - _aak
+- grapheme: hai
+  phonemes:
+  - hai
+  - _ai
+- grapheme: hau
+  phonemes:
+  - hau
+  - _au
+- grapheme: ham
+  phonemes:
+  - ham
+  - _am
+- grapheme: han
+  phonemes:
+  - han
+  - _an
+- grapheme: hang
+  phonemes:
+  - hang
+  - _ang
+- grapheme: hap
+  phonemes:
+  - hap
+  - _ap
+- grapheme: hat
+  phonemes:
+  - hat
+  - _at
+- grapheme: hak
+  phonemes:
+  - hak
+  - _ak
+- grapheme: hei
+  phonemes:
+  - hei
+  - _ei
+- grapheme: heng
+  phonemes:
+  - heng
+  - _eng
+- grapheme: hek
+  phonemes:
+  - hek
+  - _ek
+- grapheme: him
+  phonemes:
+  - him
+  - _im
+- grapheme: hin
+  phonemes:
+  - hin
+  - _in
+- grapheme: hing
+  phonemes:
+  - hing
+  - _ing
+- grapheme: hip
+  phonemes:
+  - hip
+  - _ip
+- grapheme: hit
+  phonemes:
+  - hit
+  - _it
+- grapheme: hik
+  phonemes:
+  - hik
+  - _ik
+- grapheme: hoi
+  phonemes:
+  - hoi
+  - _oi
+- grapheme: hou
+  phonemes:
+  - hou
+  - _ou
+- grapheme: hon
+  phonemes:
+  - hon
+  - _on
+- grapheme: hong
+  phonemes:
+  - hong
+  - _ong
+- grapheme: hot
+  phonemes:
+  - hot
+  - _ot
+- grapheme: hok
+  phonemes:
+  - hok
+  - _ok
+- grapheme: hoeng
+  phonemes:
+  - hoeng
+  - _oeng
+- grapheme: heoi
+  phonemes:
+  - heoi
+  - _eoi
+- grapheme: hung
+  phonemes:
+  - hung
+  - _ung
+- grapheme: huk
+  phonemes:
+  - huk
+  - _uk
+- grapheme: hyun
+  phonemes:
+  - hyun
+  - _yun
+- grapheme: hyut
+  phonemes:
+  - hyut
+  - _yut
+- grapheme: gwaai
+  phonemes:
+  - gwaai
+  - _aai
+- grapheme: gwaan
+  phonemes:
+  - gwaan
+  - _aan
+- grapheme: gwaang
+  phonemes:
+  - gwaang
+  - _aang
+- grapheme: gwaat
+  phonemes:
+  - gwaat
+  - _aat
+- grapheme: gwaak
+  phonemes:
+  - gwaak
+  - _aak
+- grapheme: gwai
+  phonemes:
+  - gwai
+  - _ai
+- grapheme: gwan
+  phonemes:
+  - gwan
+  - _an
+- grapheme: gwang
+  phonemes:
+  - gwang
+  - _ang
+- grapheme: gwat
+  phonemes:
+  - gwat
+  - _at
+- grapheme: gwing
+  phonemes:
+  - gwing
+  - _ing
+- grapheme: gwik
+  phonemes:
+  - gwik
+  - _ik
+- grapheme: gwong
+  phonemes:
+  - gwong
+  - _ong
+- grapheme: gwok
+  phonemes:
+  - gwok
+  - _ok
+- grapheme: kwaai
+  phonemes:
+  - kwaai
+  - _aai
+- grapheme: kwaang
+  phonemes:
+  - kwaang
+  - _aang
+- grapheme: kwai
+  phonemes:
+  - kwai
+  - _ai
+- grapheme: kwan
+  phonemes:
+  - kwan
+  - _an
+- grapheme: kwik
+  phonemes:
+  - kwik
+  - _ik
+- grapheme: kwong
+  phonemes:
+  - kwong
+  - _ong
+- grapheme: kwok
+  phonemes:
+  - kwok
+  - _ok
+- grapheme: waai
+  phonemes:
+  - waai
+  - _aai
+- grapheme: waan
+  phonemes:
+  - waan
+  - _aan
+- grapheme: waang
+  phonemes:
+  - waang
+  - _aang
+- grapheme: waat
+  phonemes:
+  - waat
+  - _aat
+- grapheme: waak
+  phonemes:
+  - waak
+  - _aak
+- grapheme: wai
+  phonemes:
+  - wai
+  - _ai
+- grapheme: wan
+  phonemes:
+  - wan
+  - _an
+- grapheme: wang
+  phonemes:
+  - wang
+  - _ang
+- grapheme: wat
+  phonemes:
+  - wat
+  - _at
+- grapheme: wing
+  phonemes:
+  - wing
+  - _ing
+- grapheme: wik
+  phonemes:
+  - wik
+  - _ik
+- grapheme: wong
+  phonemes:
+  - wong
+  - _ong
+- grapheme: wok
+  phonemes:
+  - wok
+  - _ok
+- grapheme: wui
+  phonemes:
+  - wui
+  - _ui
+- grapheme: wun
+  phonemes:
+  - wun
+  - _un
+- grapheme: wut
+  phonemes:
+  - wut
+  - _ut
+- grapheme: zaai
+  phonemes:
+  - zaai
+  - _aai
+- grapheme: zaau
+  phonemes:
+  - zaau
+  - _aau
+- grapheme: zaam
+  phonemes:
+  - zaam
+  - _aam
+- grapheme: zaan
+  phonemes:
+  - zaan
+  - _aan
+- grapheme: zaang
+  phonemes:
+  - zaang
+  - _aang
+- grapheme: zaap
+  phonemes:
+  - zaap
+  - _aap
+- grapheme: zaat
+  phonemes:
+  - zaat
+  - _aat
+- grapheme: zaak
+  phonemes:
+  - zaak
+  - _aak
+- grapheme: zai
+  phonemes:
+  - zai
+  - _ai
+- grapheme: zau
+  phonemes:
+  - zau
+  - _au
+- grapheme: zam
+  phonemes:
+  - zam
+  - _am
+- grapheme: zan
+  phonemes:
+  - zan
+  - _an
+- grapheme: zang
+  phonemes:
+  - zang
+  - _ang
+- grapheme: zap
+  phonemes:
+  - zap
+  - _ap
+- grapheme: zat
+  phonemes:
+  - zat
+  - _at
+- grapheme: zak
+  phonemes:
+  - zak
+  - _ak
+- grapheme: zeng
+  phonemes:
+  - zeng
+  - _eng
+- grapheme: zek
+  phonemes:
+  - zek
+  - _ek
+- grapheme: zim
+  phonemes:
+  - zim
+  - _im
+- grapheme: zin
+  phonemes:
+  - zin
+  - _in
+- grapheme: zing
+  phonemes:
+  - zing
+  - _ing
+- grapheme: zip
+  phonemes:
+  - zip
+  - _ip
+- grapheme: zit
+  phonemes:
+  - zit
+  - _it
+- grapheme: zik
+  phonemes:
+  - zik
+  - _ik
+- grapheme: zoi
+  phonemes:
+  - zoi
+  - _oi
+- grapheme: zou
+  phonemes:
+  - zou
+  - _ou
+- grapheme: zong
+  phonemes:
+  - zong
+  - _ong
+- grapheme: zok
+  phonemes:
+  - zok
+  - _ok
+- grapheme: zoeng
+  phonemes:
+  - zoeng
+  - _oeng
+- grapheme: zoek
+  phonemes:
+  - zoek
+  - _oek
+- grapheme: zeoi
+  phonemes:
+  - zeoi
+  - _eoi
+- grapheme: zeon
+  phonemes:
+  - zeon
+  - _eon
+- grapheme: zeot
+  phonemes:
+  - zeot
+  - _eot
+- grapheme: zung
+  phonemes:
+  - zung
+  - _ung
+- grapheme: zuk
+  phonemes:
+  - zuk
+  - _uk
+- grapheme: zyun
+  phonemes:
+  - zyun
+  - _yun
+- grapheme: zyut
+  phonemes:
+  - zyut
+  - _yut
+- grapheme: caai
+  phonemes:
+  - caai
+  - _aai
+- grapheme: caau
+  phonemes:
+  - caau
+  - _aau
+- grapheme: caam
+  phonemes:
+  - caam
+  - _aam
+- grapheme: caan
+  phonemes:
+  - caan
+  - _aan
+- grapheme: caang
+  phonemes:
+  - caang
+  - _aang
+- grapheme: caap
+  phonemes:
+  - caap
+  - _aap
+- grapheme: caat
+  phonemes:
+  - caat
+  - _aat
+- grapheme: caak
+  phonemes:
+  - caak
+  - _aak
+- grapheme: cai
+  phonemes:
+  - cai
+  - _ai
+- grapheme: cau
+  phonemes:
+  - cau
+  - _au
+- grapheme: cam
+  phonemes:
+  - cam
+  - _am
+- grapheme: can
+  phonemes:
+  - can
+  - _an
+- grapheme: cang
+  phonemes:
+  - cang
+  - _ang
+- grapheme: cap
+  phonemes:
+  - cap
+  - _ap
+- grapheme: cat
+  phonemes:
+  - cat
+  - _at
+- grapheme: cak
+  phonemes:
+  - cak
+  - _ak
+- grapheme: ceng
+  phonemes:
+  - ceng
+  - _eng
+- grapheme: cek
+  phonemes:
+  - cek
+  - _ek
+- grapheme: cim
+  phonemes:
+  - cim
+  - _im
+- grapheme: cin
+  phonemes:
+  - cin
+  - _in
+- grapheme: cing
+  phonemes:
+  - cing
+  - _ing
+- grapheme: cip
+  phonemes:
+  - cip
+  - _ip
+- grapheme: cit
+  phonemes:
+  - cit
+  - _it
+- grapheme: cik
+  phonemes:
+  - cik
+  - _ik
+- grapheme: coi
+  phonemes:
+  - coi
+  - _oi
+- grapheme: cou
+  phonemes:
+  - cou
+  - _ou
+- grapheme: cong
+  phonemes:
+  - cong
+  - _ong
+- grapheme: cok
+  phonemes:
+  - cok
+  - _ok
+- grapheme: coeng
+  phonemes:
+  - coeng
+  - _oeng
+- grapheme: coek
+  phonemes:
+  - coek
+  - _oek
+- grapheme: ceoi
+  phonemes:
+  - ceoi
+  - _eoi
+- grapheme: ceon
+  phonemes:
+  - ceon
+  - _eon
+- grapheme: ceot
+  phonemes:
+  - ceot
+  - _eot
+- grapheme: cung
+  phonemes:
+  - cung
+  - _ung
+- grapheme: cuk
+  phonemes:
+  - cuk
+  - _uk
+- grapheme: cyun
+  phonemes:
+  - cyun
+  - _yun
+- grapheme: cyut
+  phonemes:
+  - cyut
+  - _yut
+- grapheme: saai
+  phonemes:
+  - saai
+  - _aai
+- grapheme: saau
+  phonemes:
+  - saau
+  - _aau
+- grapheme: saam
+  phonemes:
+  - saam
+  - _aam
+- grapheme: saan
+  phonemes:
+  - saan
+  - _aan
+- grapheme: saang
+  phonemes:
+  - saang
+  - _aang
+- grapheme: saap
+  phonemes:
+  - saap
+  - _aap
+- grapheme: saat
+  phonemes:
+  - saat
+  - _aat
+- grapheme: saak
+  phonemes:
+  - saak
+  - _aak
+- grapheme: sai
+  phonemes:
+  - sai
+  - _ai
+- grapheme: sau
+  phonemes:
+  - sau
+  - _au
+- grapheme: sam
+  phonemes:
+  - sam
+  - _am
+- grapheme: san
+  phonemes:
+  - san
+  - _an
+- grapheme: sang
+  phonemes:
+  - sang
+  - _ang
+- grapheme: sap
+  phonemes:
+  - sap
+  - _ap
+- grapheme: sat
+  phonemes:
+  - sat
+  - _at
+- grapheme: sak
+  phonemes:
+  - sak
+  - _ak
+- grapheme: sei
+  phonemes:
+  - sei
+  - _ei
+- grapheme: seng
+  phonemes:
+  - seng
+  - _eng
+- grapheme: sek
+  phonemes:
+  - sek
+  - _ek
+- grapheme: sim
+  phonemes:
+  - sim
+  - _im
+- grapheme: sin
+  phonemes:
+  - sin
+  - _in
+- grapheme: sing
+  phonemes:
+  - sing
+  - _ing
+- grapheme: sip
+  phonemes:
+  - sip
+  - _ip
+- grapheme: sit
+  phonemes:
+  - sit
+  - _it
+- grapheme: sik
+  phonemes:
+  - sik
+  - _ik
+- grapheme: soi
+  phonemes:
+  - soi
+  - _oi
+- grapheme: sou
+  phonemes:
+  - sou
+  - _ou
+- grapheme: song
+  phonemes:
+  - song
+  - _ong
+- grapheme: sok
+  phonemes:
+  - sok
+  - _ok
+- grapheme: soeng
+  phonemes:
+  - soeng
+  - _oeng
+- grapheme: soek
+  phonemes:
+  - soek
+  - _oek
+- grapheme: seoi
+  phonemes:
+  - seoi
+  - _eoi
+- grapheme: seon
+  phonemes:
+  - seon
+  - _eon
+- grapheme: seot
+  phonemes:
+  - seot
+  - _eot
+- grapheme: sung
+  phonemes:
+  - sung
+  - _ung
+- grapheme: suk
+  phonemes:
+  - suk
+  - _uk
+- grapheme: syun
+  phonemes:
+  - syun
+  - _yun
+- grapheme: syut
+  phonemes:
+  - syut
+  - _yut
+- grapheme: jaai
+  phonemes:
+  - jaai
+  - _aai
+- grapheme: jaak
+  phonemes:
+  - jaak
+  - _aak
+- grapheme: jai
+  phonemes:
+  - jai
+  - _ai
+- grapheme: jau
+  phonemes:
+  - jau
+  - _au
+- grapheme: jam
+  phonemes:
+  - jam
+  - _am
+- grapheme: jan
+  phonemes:
+  - jan
+  - _an
+- grapheme: jap
+  phonemes:
+  - jap
+  - _ap
+- grapheme: jat
+  phonemes:
+  - jat
+  - _at
+- grapheme: jeng
+  phonemes:
+  - jeng
+  - _eng
+- grapheme: jim
+  phonemes:
+  - jim
+  - _im
+- grapheme: jin
+  phonemes:
+  - jin
+  - _in
+- grapheme: jing
+  phonemes:
+  - jing
+  - _ing
+- grapheme: jip
+  phonemes:
+  - jip
+  - _ip
+- grapheme: jit
+  phonemes:
+  - jit
+  - _it
+- grapheme: jik
+  phonemes:
+  - jik
+  - _ik
+- grapheme: joeng
+  phonemes:
+  - joeng
+  - _oeng
+- grapheme: joek
+  phonemes:
+  - joek
+  - _oek
+- grapheme: jeoi
+  phonemes:
+  - jeoi
+  - _eoi
+- grapheme: jeon
+  phonemes:
+  - jeon
+  - _eon
+- grapheme: jung
+  phonemes:
+  - jung
+  - _ung
+- grapheme: juk
+  phonemes:
+  - juk
+  - _uk
+- grapheme: jyun
+  phonemes:
+  - jyun
+  - _yun
+- grapheme: jyut
+  phonemes:
+  - jyut
+  - _yut
+- grapheme: biu
+  phonemes:
+  - biu
+  - _iu
+- grapheme: piu
+  phonemes:
+  - piu
+  - _iu
+- grapheme: miu
+  phonemes:
+  - miu
+  - _iu
+- grapheme: diu
+  phonemes:
+  - diu
+  - _iu
+- grapheme: tiu
+  phonemes:
+  - tiu
+  - _iu
+- grapheme: niu
+  phonemes:
+  - niu
+  - _iu
+- grapheme: liu
+  phonemes:
+  - liu
+  - _iu
+- grapheme: giu
+  phonemes:
+  - giu
+  - _iu
+- grapheme: kiu
+  phonemes:
+  - kiu
+  - _iu
+- grapheme: hiu
+  phonemes:
+  - hiu
+  - _iu
+- grapheme: ziu
+  phonemes:
+  - ziu
+  - _iu
+- grapheme: ciu
+  phonemes:
+  - ciu
+  - _iu
+- grapheme: siu
+  phonemes:
+  - siu
+  - _iu
+- grapheme: jiu
+  phonemes:
+  - jiu
+  - _iu
+- grapheme: be
+  phonemes:
+  - be
+  - _e
+- grapheme: me
+  phonemes:
+  - me
+  - _e
+- grapheme: fe
+  phonemes:
+  - fe
+  - _e
+- grapheme: de
+  phonemes:
+  - de
+  - _e
+- grapheme: ne
+  phonemes:
+  - ne
+  - _e
+- grapheme: le
+  phonemes:
+  - le
+  - _e
+- grapheme: ge
+  phonemes:
+  - ge
+  - _e
+- grapheme: ke
+  phonemes:
+  - ke
+  - _e
+- grapheme: ze
+  phonemes:
+  - ze
+  - _e
+- grapheme: ce
+  phonemes:
+  - ce
+  - _e
+- grapheme: se
+  phonemes:
+  - se
+  - _e
+- grapheme: je
+  phonemes:
+  - je
+  - _e
+- grapheme: bo
+  phonemes:
+  - bo
+  - _o
+- grapheme: po
+  phonemes:
+  - po
+  - _o
+- grapheme: mo
+  phonemes:
+  - mo
+  - _o
+- grapheme: fo
+  phonemes:
+  - fo
+  - _o
+- grapheme: go
+  phonemes:
+  - go
+  - _o
+- grapheme: ko
+  phonemes:
+  - ko
+  - _o
+- grapheme: ho
+  phonemes:
+  - ho
+  - _o
+- grapheme: zo
+  phonemes:
+  - zo
+  - _o
+- grapheme: co
+  phonemes:
+  - co
+  - _o
+- grapheme: so
+  phonemes:
+  - so
+  - _o
+- grapheme: jo
+  phonemes:
+  - jo
+  - _o
+- grapheme: ngo
+  phonemes:
+  - ngo
+  - _o
+- grapheme: mi
+  phonemes:
+  - mi
+  - _i
+- grapheme: ni
+  phonemes:
+  - ni
+  - _i
+- grapheme: li
+  phonemes:
+  - li
+  - _i
+- grapheme: zi
+  phonemes:
+  - zi
+  - _i
+- grapheme: ci
+  phonemes:
+  - ci
+  - _i
+- grapheme: si
+  phonemes:
+  - si
+  - _i
+- grapheme: ji
+  phonemes:
+  - ji
+  - _i
+- grapheme: fu
+  phonemes:
+  - fu
+  - _u
+- grapheme: gu
+  phonemes:
+  - gu
+  - _u
+- grapheme: ku
+  phonemes:
+  - ku
+  - _u
+- grapheme: wu
+  phonemes:
+  - wu
+  - _u
+- grapheme: zyu
+  phonemes:
+  - zyu
+  - _yu
+- grapheme: cyu
+  phonemes:
+  - cyu
+  - _yu
+- grapheme: syu
+  phonemes:
+  - syu
+  - _yu
+- grapheme: jyu
+  phonemes:
+  - jyu
+  - _yu
+
+symbols:
+- symbol: aa
+  type: vowel
+- symbol: a
+  type: vowel
+- symbol: e
+  type: vowel
+- symbol: o
+  type: vowel
+- symbol: i
+  type: vowel
+- symbol: u
+  type: vowel
+- symbol: hm
+  type: vowel
+- symbol: hng
+  type: vowel
+- symbol: aai
+  type: vowel
+- symbol: aau
+  type: vowel
+- symbol: aam
+  type: vowel
+- symbol: aan
+  type: vowel
+- symbol: aang
+  type: vowel
+- symbol: aap
+  type: vowel
+- symbol: aat
+  type: vowel
+- symbol: aak
+  type: vowel
+- symbol: ai
+  type: vowel
+- symbol: au
+  type: vowel
+- symbol: am
+  type: vowel
+- symbol: an
+  type: vowel
+- symbol: ang
+  type: vowel
+- symbol: ap
+  type: vowel
+- symbol: ak
+  type: vowel
+- symbol: ei
+  type: vowel
+- symbol: oi
+  type: vowel
+- symbol: ou
+  type: vowel
+- symbol: on
+  type: vowel
+- symbol: ong
+  type: vowel
+- symbol: ok
+  type: vowel
+- symbol: ung
+  type: vowel
+- symbol: uk
+  type: vowel
+- symbol: baai
+  type: vowel
+- symbol: baau
+  type: vowel
+- symbol: baan
+  type: vowel
+- symbol: baang
+  type: vowel
+- symbol: baat
+  type: vowel
+- symbol: baak
+  type: vowel
+- symbol: bai
+  type: vowel
+- symbol: bau
+  type: vowel
+- symbol: bam
+  type: vowel
+- symbol: ban
+  type: vowel
+- symbol: bang
+  type: vowel
+- symbol: bat
+  type: vowel
+- symbol: bak
+  type: vowel
+- symbol: bei
+  type: vowel
+- symbol: beng
+  type: vowel
+- symbol: bek
+  type: vowel
+- symbol: bin
+  type: vowel
+- symbol: bing
+  type: vowel
+- symbol: bit
+  type: vowel
+- symbol: bik
+  type: vowel
+- symbol: bou
+  type: vowel
+- symbol: bong
+  type: vowel
+- symbol: bok
+  type: vowel
+- symbol: bui
+  type: vowel
+- symbol: bun
+  type: vowel
+- symbol: bung
+  type: vowel
+- symbol: but
+  type: vowel
+- symbol: buk
+  type: vowel
+- symbol: paai
+  type: vowel
+- symbol: paau
+  type: vowel
+- symbol: paan
+  type: vowel
+- symbol: paang
+  type: vowel
+- symbol: paak
+  type: vowel
+- symbol: pai
+  type: vowel
+- symbol: pau
+  type: vowel
+- symbol: pan
+  type: vowel
+- symbol: pang
+  type: vowel
+- symbol: pat
+  type: vowel
+- symbol: pei
+  type: vowel
+- symbol: peng
+  type: vowel
+- symbol: pek
+  type: vowel
+- symbol: pin
+  type: vowel
+- symbol: ping
+  type: vowel
+- symbol: pit
+  type: vowel
+- symbol: pik
+  type: vowel
+- symbol: poi
+  type: vowel
+- symbol: pou
+  type: vowel
+- symbol: pong
+  type: vowel
+- symbol: pok
+  type: vowel
+- symbol: pui
+  type: vowel
+- symbol: pun
+  type: vowel
+- symbol: pung
+  type: vowel
+- symbol: put
+  type: vowel
+- symbol: puk
+  type: vowel
+- symbol: maai
+  type: vowel
+- symbol: maau
+  type: vowel
+- symbol: maan
+  type: vowel
+- symbol: maang
+  type: vowel
+- symbol: maat
+  type: vowel
+- symbol: maak
+  type: vowel
+- symbol: mai
+  type: vowel
+- symbol: mau
+  type: vowel
+- symbol: man
+  type: vowel
+- symbol: mang
+  type: vowel
+- symbol: mat
+  type: vowel
+- symbol: mak
+  type: vowel
+- symbol: mei
+  type: vowel
+- symbol: meng
+  type: vowel
+- symbol: min
+  type: vowel
+- symbol: ming
+  type: vowel
+- symbol: mit
+  type: vowel
+- symbol: mik
+  type: vowel
+- symbol: mou
+  type: vowel
+- symbol: mong
+  type: vowel
+- symbol: mok
+  type: vowel
+- symbol: mui
+  type: vowel
+- symbol: mun
+  type: vowel
+- symbol: mung
+  type: vowel
+- symbol: mut
+  type: vowel
+- symbol: muk
+  type: vowel
+- symbol: faai
+  type: vowel
+- symbol: faan
+  type: vowel
+- symbol: faat
+  type: vowel
+- symbol: faak
+  type: vowel
+- symbol: fai
+  type: vowel
+- symbol: fau
+  type: vowel
+- symbol: fan
+  type: vowel
+- symbol: fang
+  type: vowel
+- symbol: fat
+  type: vowel
+- symbol: fei
+  type: vowel
+- symbol: fong
+  type: vowel
+- symbol: fok
+  type: vowel
+- symbol: fui
+  type: vowel
+- symbol: fun
+  type: vowel
+- symbol: fung
+  type: vowel
+- symbol: fut
+  type: vowel
+- symbol: fuk
+  type: vowel
+- symbol: daai
+  type: vowel
+- symbol: daam
+  type: vowel
+- symbol: daan
+  type: vowel
+- symbol: daap
+  type: vowel
+- symbol: daat
+  type: vowel
+- symbol: daak
+  type: vowel
+- symbol: dai
+  type: vowel
+- symbol: dau
+  type: vowel
+- symbol: dam
+  type: vowel
+- symbol: dan
+  type: vowel
+- symbol: dang
+  type: vowel
+- symbol: dap
+  type: vowel
+- symbol: dat
+  type: vowel
+- symbol: dak
+  type: vowel
+- symbol: dei
+  type: vowel
+- symbol: deu
+  type: vowel
+- symbol: deng
+  type: vowel
+- symbol: dek
+  type: vowel
+- symbol: dim
+  type: vowel
+- symbol: din
+  type: vowel
+- symbol: ding
+  type: vowel
+- symbol: dip
+  type: vowel
+- symbol: dit
+  type: vowel
+- symbol: dik
+  type: vowel
+- symbol: doi
+  type: vowel
+- symbol: dou
+  type: vowel
+- symbol: dong
+  type: vowel
+- symbol: dok
+  type: vowel
+- symbol: doek
+  type: vowel
+- symbol: deoi
+  type: vowel
+- symbol: deon
+  type: vowel
+- symbol: deot
+  type: vowel
+- symbol: dung
+  type: vowel
+- symbol: duk
+  type: vowel
+- symbol: dyun
+  type: vowel
+- symbol: dyut
+  type: vowel
+- symbol: taai
+  type: vowel
+- symbol: taam
+  type: vowel
+- symbol: taan
+  type: vowel
+- symbol: taap
+  type: vowel
+- symbol: taat
+  type: vowel
+- symbol: tai
+  type: vowel
+- symbol: tau
+  type: vowel
+- symbol: tam
+  type: vowel
+- symbol: tan
+  type: vowel
+- symbol: tang
+  type: vowel
+- symbol: teng
+  type: vowel
+- symbol: tek
+  type: vowel
+- symbol: tim
+  type: vowel
+- symbol: tin
+  type: vowel
+- symbol: ting
+  type: vowel
+- symbol: tip
+  type: vowel
+- symbol: tit
+  type: vowel
+- symbol: tik
+  type: vowel
+- symbol: toi
+  type: vowel
+- symbol: tou
+  type: vowel
+- symbol: tong
+  type: vowel
+- symbol: tok
+  type: vowel
+- symbol: teoi
+  type: vowel
+- symbol: teon
+  type: vowel
+- symbol: tung
+  type: vowel
+- symbol: tuk
+  type: vowel
+- symbol: tyun
+  type: vowel
+- symbol: tyut
+  type: vowel
+- symbol: naai
+  type: vowel
+- symbol: naau
+  type: vowel
+- symbol: naam
+  type: vowel
+- symbol: naan
+  type: vowel
+- symbol: naap
+  type: vowel
+- symbol: naat
+  type: vowel
+- symbol: nai
+  type: vowel
+- symbol: nau
+  type: vowel
+- symbol: nam
+  type: vowel
+- symbol: nan
+  type: vowel
+- symbol: nang
+  type: vowel
+- symbol: nap
+  type: vowel
+- symbol: nat
+  type: vowel
+- symbol: nei
+  type: vowel
+- symbol: nim
+  type: vowel
+- symbol: nin
+  type: vowel
+- symbol: ning
+  type: vowel
+- symbol: nip
+  type: vowel
+- symbol: nik
+  type: vowel
+- symbol: noi
+  type: vowel
+- symbol: nou
+  type: vowel
+- symbol: nong
+  type: vowel
+- symbol: nok
+  type: vowel
+- symbol: noeng
+  type: vowel
+- symbol: neoi
+  type: vowel
+- symbol: neot
+  type: vowel
+- symbol: nung
+  type: vowel
+- symbol: nuk
+  type: vowel
+- symbol: nyun
+  type: vowel
+- symbol: laai
+  type: vowel
+- symbol: laau
+  type: vowel
+- symbol: laam
+  type: vowel
+- symbol: laan
+  type: vowel
+- symbol: laang
+  type: vowel
+- symbol: laap
+  type: vowel
+- symbol: laat
+  type: vowel
+- symbol: laak
+  type: vowel
+- symbol: lai
+  type: vowel
+- symbol: lau
+  type: vowel
+- symbol: lam
+  type: vowel
+- symbol: lang
+  type: vowel
+- symbol: lap
+  type: vowel
+- symbol: lat
+  type: vowel
+- symbol: lak
+  type: vowel
+- symbol: lei
+  type: vowel
+- symbol: lem
+  type: vowel
+- symbol: leng
+  type: vowel
+- symbol: lek
+  type: vowel
+- symbol: lim
+  type: vowel
+- symbol: lin
+  type: vowel
+- symbol: ling
+  type: vowel
+- symbol: lip
+  type: vowel
+- symbol: lit
+  type: vowel
+- symbol: lik
+  type: vowel
+- symbol: loi
+  type: vowel
+- symbol: lou
+  type: vowel
+- symbol: long
+  type: vowel
+- symbol: lok
+  type: vowel
+- symbol: loeng
+  type: vowel
+- symbol: loek
+  type: vowel
+- symbol: leoi
+  type: vowel
+- symbol: leon
+  type: vowel
+- symbol: leot
+  type: vowel
+- symbol: lung
+  type: vowel
+- symbol: luk
+  type: vowel
+- symbol: lyun
+  type: vowel
+- symbol: lyut
+  type: vowel
+- symbol: gaai
+  type: vowel
+- symbol: gaau
+  type: vowel
+- symbol: gaam
+  type: vowel
+- symbol: gaan
+  type: vowel
+- symbol: gaang
+  type: vowel
+- symbol: gaap
+  type: vowel
+- symbol: gaat
+  type: vowel
+- symbol: gaak
+  type: vowel
+- symbol: gai
+  type: vowel
+- symbol: gau
+  type: vowel
+- symbol: gam
+  type: vowel
+- symbol: gan
+  type: vowel
+- symbol: gang
+  type: vowel
+- symbol: gap
+  type: vowel
+- symbol: gat
+  type: vowel
+- symbol: gei
+  type: vowel
+- symbol: geng
+  type: vowel
+- symbol: gep
+  type: vowel
+- symbol: gim
+  type: vowel
+- symbol: gin
+  type: vowel
+- symbol: ging
+  type: vowel
+- symbol: gip
+  type: vowel
+- symbol: git
+  type: vowel
+- symbol: gik
+  type: vowel
+- symbol: goi
+  type: vowel
+- symbol: gou
+  type: vowel
+- symbol: gon
+  type: vowel
+- symbol: gong
+  type: vowel
+- symbol: got
+  type: vowel
+- symbol: gok
+  type: vowel
+- symbol: goeng
+  type: vowel
+- symbol: goek
+  type: vowel
+- symbol: geoi
+  type: vowel
+- symbol: gui
+  type: vowel
+- symbol: gun
+  type: vowel
+- symbol: gung
+  type: vowel
+- symbol: guk
+  type: vowel
+- symbol: gyun
+  type: vowel
+- symbol: gyut
+  type: vowel
+- symbol: kaai
+  type: vowel
+- symbol: kaau
+  type: vowel
+- symbol: kaat
+  type: vowel
+- symbol: kaak
+  type: vowel
+- symbol: kai
+  type: vowel
+- symbol: kau
+  type: vowel
+- symbol: kam
+  type: vowel
+- symbol: kan
+  type: vowel
+- symbol: kang
+  type: vowel
+- symbol: kap
+  type: vowel
+- symbol: kat
+  type: vowel
+- symbol: kei
+  type: vowel
+- symbol: kek
+  type: vowel
+- symbol: kim
+  type: vowel
+- symbol: kin
+  type: vowel
+- symbol: king
+  type: vowel
+- symbol: kit
+  type: vowel
+- symbol: kik
+  type: vowel
+- symbol: koi
+  type: vowel
+- symbol: kong
+  type: vowel
+- symbol: kok
+  type: vowel
+- symbol: koeng
+  type: vowel
+- symbol: koek
+  type: vowel
+- symbol: keoi
+  type: vowel
+- symbol: kui
+  type: vowel
+- symbol: kung
+  type: vowel
+- symbol: kut
+  type: vowel
+- symbol: kuk
+  type: vowel
+- symbol: kyun
+  type: vowel
+- symbol: kyut
+  type: vowel
+- symbol: ngaai
+  type: vowel
+- symbol: ngaau
+  type: vowel
+- symbol: ngaam
+  type: vowel
+- symbol: ngaan
+  type: vowel
+- symbol: ngaang
+  type: vowel
+- symbol: ngaak
+  type: vowel
+- symbol: ngaat
+  type: vowel
+- symbol: ngai
+  type: vowel
+- symbol: ngau
+  type: vowel
+- symbol: ngam
+  type: vowel
+- symbol: ngan
+  type: vowel
+- symbol: ngap
+  type: vowel
+- symbol: ngat
+  type: vowel
+- symbol: ngit
+  type: vowel
+- symbol: ngoi
+  type: vowel
+- symbol: ngou
+  type: vowel
+- symbol: ngon
+  type: vowel
+- symbol: ngong
+  type: vowel
+- symbol: ngok
+  type: vowel
+- symbol: haai
+  type: vowel
+- symbol: haau
+  type: vowel
+- symbol: haam
+  type: vowel
+- symbol: haan
+  type: vowel
+- symbol: haang
+  type: vowel
+- symbol: haap
+  type: vowel
+- symbol: haak
+  type: vowel
+- symbol: hai
+  type: vowel
+- symbol: hau
+  type: vowel
+- symbol: ham
+  type: vowel
+- symbol: han
+  type: vowel
+- symbol: hang
+  type: vowel
+- symbol: hap
+  type: vowel
+- symbol: hat
+  type: vowel
+- symbol: hak
+  type: vowel
+- symbol: hei
+  type: vowel
+- symbol: heng
+  type: vowel
+- symbol: hek
+  type: vowel
+- symbol: him
+  type: vowel
+- symbol: hin
+  type: vowel
+- symbol: hing
+  type: vowel
+- symbol: hip
+  type: vowel
+- symbol: hit
+  type: vowel
+- symbol: hik
+  type: vowel
+- symbol: hoi
+  type: vowel
+- symbol: hou
+  type: vowel
+- symbol: hon
+  type: vowel
+- symbol: hong
+  type: vowel
+- symbol: hot
+  type: vowel
+- symbol: hok
+  type: vowel
+- symbol: hoeng
+  type: vowel
+- symbol: heoi
+  type: vowel
+- symbol: hung
+  type: vowel
+- symbol: huk
+  type: vowel
+- symbol: hyun
+  type: vowel
+- symbol: hyut
+  type: vowel
+- symbol: gwaai
+  type: vowel
+- symbol: gwaan
+  type: vowel
+- symbol: gwaang
+  type: vowel
+- symbol: gwaat
+  type: vowel
+- symbol: gwaak
+  type: vowel
+- symbol: gwai
+  type: vowel
+- symbol: gwan
+  type: vowel
+- symbol: gwang
+  type: vowel
+- symbol: gwat
+  type: vowel
+- symbol: gwing
+  type: vowel
+- symbol: gwik
+  type: vowel
+- symbol: gwong
+  type: vowel
+- symbol: gwok
+  type: vowel
+- symbol: kwaai
+  type: vowel
+- symbol: kwaang
+  type: vowel
+- symbol: kwai
+  type: vowel
+- symbol: kwan
+  type: vowel
+- symbol: kwik
+  type: vowel
+- symbol: kwong
+  type: vowel
+- symbol: kwok
+  type: vowel
+- symbol: waai
+  type: vowel
+- symbol: waan
+  type: vowel
+- symbol: waang
+  type: vowel
+- symbol: waat
+  type: vowel
+- symbol: waak
+  type: vowel
+- symbol: wai
+  type: vowel
+- symbol: wan
+  type: vowel
+- symbol: wang
+  type: vowel
+- symbol: wat
+  type: vowel
+- symbol: wing
+  type: vowel
+- symbol: wik
+  type: vowel
+- symbol: wong
+  type: vowel
+- symbol: wok
+  type: vowel
+- symbol: wui
+  type: vowel
+- symbol: wun
+  type: vowel
+- symbol: wut
+  type: vowel
+- symbol: zaai
+  type: vowel
+- symbol: zaau
+  type: vowel
+- symbol: zaam
+  type: vowel
+- symbol: zaan
+  type: vowel
+- symbol: zaang
+  type: vowel
+- symbol: zaap
+  type: vowel
+- symbol: zaat
+  type: vowel
+- symbol: zaak
+  type: vowel
+- symbol: zai
+  type: vowel
+- symbol: zau
+  type: vowel
+- symbol: zam
+  type: vowel
+- symbol: zan
+  type: vowel
+- symbol: zang
+  type: vowel
+- symbol: zap
+  type: vowel
+- symbol: zat
+  type: vowel
+- symbol: zak
+  type: vowel
+- symbol: zeng
+  type: vowel
+- symbol: zek
+  type: vowel
+- symbol: zim
+  type: vowel
+- symbol: zin
+  type: vowel
+- symbol: zing
+  type: vowel
+- symbol: zip
+  type: vowel
+- symbol: zit
+  type: vowel
+- symbol: zik
+  type: vowel
+- symbol: zoi
+  type: vowel
+- symbol: zou
+  type: vowel
+- symbol: zong
+  type: vowel
+- symbol: zok
+  type: vowel
+- symbol: zoeng
+  type: vowel
+- symbol: zoek
+  type: vowel
+- symbol: zeoi
+  type: vowel
+- symbol: zeon
+  type: vowel
+- symbol: zeot
+  type: vowel
+- symbol: zung
+  type: vowel
+- symbol: zuk
+  type: vowel
+- symbol: zyun
+  type: vowel
+- symbol: zyut
+  type: vowel
+- symbol: caai
+  type: vowel
+- symbol: caau
+  type: vowel
+- symbol: caam
+  type: vowel
+- symbol: caan
+  type: vowel
+- symbol: caang
+  type: vowel
+- symbol: caap
+  type: vowel
+- symbol: caat
+  type: vowel
+- symbol: caak
+  type: vowel
+- symbol: cai
+  type: vowel
+- symbol: cau
+  type: vowel
+- symbol: cam
+  type: vowel
+- symbol: can
+  type: vowel
+- symbol: cang
+  type: vowel
+- symbol: cap
+  type: vowel
+- symbol: cat
+  type: vowel
+- symbol: cak
+  type: vowel
+- symbol: ceng
+  type: vowel
+- symbol: cek
+  type: vowel
+- symbol: cim
+  type: vowel
+- symbol: cin
+  type: vowel
+- symbol: cing
+  type: vowel
+- symbol: cip
+  type: vowel
+- symbol: cit
+  type: vowel
+- symbol: cik
+  type: vowel
+- symbol: coi
+  type: vowel
+- symbol: cou
+  type: vowel
+- symbol: cong
+  type: vowel
+- symbol: cok
+  type: vowel
+- symbol: coeng
+  type: vowel
+- symbol: coek
+  type: vowel
+- symbol: ceoi
+  type: vowel
+- symbol: ceon
+  type: vowel
+- symbol: ceot
+  type: vowel
+- symbol: cung
+  type: vowel
+- symbol: cuk
+  type: vowel
+- symbol: cyun
+  type: vowel
+- symbol: cyut
+  type: vowel
+- symbol: saai
+  type: vowel
+- symbol: saau
+  type: vowel
+- symbol: saam
+  type: vowel
+- symbol: saan
+  type: vowel
+- symbol: saang
+  type: vowel
+- symbol: saap
+  type: vowel
+- symbol: saat
+  type: vowel
+- symbol: saak
+  type: vowel
+- symbol: sai
+  type: vowel
+- symbol: sau
+  type: vowel
+- symbol: sam
+  type: vowel
+- symbol: san
+  type: vowel
+- symbol: sang
+  type: vowel
+- symbol: sap
+  type: vowel
+- symbol: sat
+  type: vowel
+- symbol: sak
+  type: vowel
+- symbol: sei
+  type: vowel
+- symbol: seng
+  type: vowel
+- symbol: sek
+  type: vowel
+- symbol: sim
+  type: vowel
+- symbol: sin
+  type: vowel
+- symbol: sing
+  type: vowel
+- symbol: sip
+  type: vowel
+- symbol: sit
+  type: vowel
+- symbol: sik
+  type: vowel
+- symbol: soi
+  type: vowel
+- symbol: sou
+  type: vowel
+- symbol: song
+  type: vowel
+- symbol: sok
+  type: vowel
+- symbol: soeng
+  type: vowel
+- symbol: soek
+  type: vowel
+- symbol: seoi
+  type: vowel
+- symbol: seon
+  type: vowel
+- symbol: seot
+  type: vowel
+- symbol: sung
+  type: vowel
+- symbol: suk
+  type: vowel
+- symbol: syun
+  type: vowel
+- symbol: syut
+  type: vowel
+- symbol: jaai
+  type: vowel
+- symbol: jaak
+  type: vowel
+- symbol: jai
+  type: vowel
+- symbol: jau
+  type: vowel
+- symbol: jam
+  type: vowel
+- symbol: jan
+  type: vowel
+- symbol: jap
+  type: vowel
+- symbol: jat
+  type: vowel
+- symbol: jeng
+  type: vowel
+- symbol: jim
+  type: vowel
+- symbol: jin
+  type: vowel
+- symbol: jing
+  type: vowel
+- symbol: jip
+  type: vowel
+- symbol: jit
+  type: vowel
+- symbol: jik
+  type: vowel
+- symbol: joeng
+  type: vowel
+- symbol: joek
+  type: vowel
+- symbol: jeoi
+  type: vowel
+- symbol: jeon
+  type: vowel
+- symbol: jung
+  type: vowel
+- symbol: juk
+  type: vowel
+- symbol: jyun
+  type: vowel
+- symbol: jyut
+  type: vowel
+- symbol: biu
+  type: vowel
+- symbol: piu
+  type: vowel
+- symbol: miu
+  type: vowel
+- symbol: diu
+  type: vowel
+- symbol: tiu
+  type: vowel
+- symbol: niu
+  type: vowel
+- symbol: liu
+  type: vowel
+- symbol: giu
+  type: vowel
+- symbol: kiu
+  type: vowel
+- symbol: hiu
+  type: vowel
+- symbol: ziu
+  type: vowel
+- symbol: ciu
+  type: vowel
+- symbol: siu
+  type: vowel
+- symbol: jiu
+  type: vowel
+- symbol: be
+  type: vowel
+- symbol: me
+  type: vowel
+- symbol: fe
+  type: vowel
+- symbol: de
+  type: vowel
+- symbol: ne
+  type: vowel
+- symbol: le
+  type: vowel
+- symbol: ge
+  type: vowel
+- symbol: ke
+  type: vowel
+- symbol: ze
+  type: vowel
+- symbol: ce
+  type: vowel
+- symbol: se
+  type: vowel
+- symbol: je
+  type: vowel
+- symbol: bo
+  type: vowel
+- symbol: po
+  type: vowel
+- symbol: mo
+  type: vowel
+- symbol: fo
+  type: vowel
+- symbol: go
+  type: vowel
+- symbol: ko
+  type: vowel
+- symbol: ho
+  type: vowel
+- symbol: zo
+  type: vowel
+- symbol: co
+  type: vowel
+- symbol: so
+  type: vowel
+- symbol: jo
+  type: vowel
+- symbol: ngo
+  type: vowel
+- symbol: mi
+  type: vowel
+- symbol: ni
+  type: vowel
+- symbol: li
+  type: vowel
+- symbol: zi
+  type: vowel
+- symbol: ci
+  type: vowel
+- symbol: si
+  type: vowel
+- symbol: ji
+  type: vowel
+- symbol: fu
+  type: vowel
+- symbol: gu
+  type: vowel
+- symbol: ku
+  type: vowel
+- symbol: wu
+  type: vowel
+- symbol: zyu
+  type: vowel
+- symbol: cyu
+  type: vowel
+- symbol: syu
+  type: vowel
+- symbol: jyu
+  type: vowel
+- symbol: _aa
+  type: fricative
+- symbol: _a
+  type: fricative
+- symbol: _e
+  type: fricative
+- symbol: _o
+  type: fricative
+- symbol: _i
+  type: fricative
+- symbol: _u
+  type: fricative
+- symbol: _m
+  type: fricative
+- symbol: _ng
+  type: fricative
+- symbol: _aai
+  type: fricative
+- symbol: _aau
+  type: fricative
+- symbol: _aam
+  type: fricative
+- symbol: _aan
+  type: fricative
+- symbol: _aang
+  type: fricative
+- symbol: _aap
+  type: fricative
+- symbol: _aat
+  type: fricative
+- symbol: _aak
+  type: fricative
+- symbol: _ai
+  type: fricative
+- symbol: _au
+  type: fricative
+- symbol: _am
+  type: fricative
+- symbol: _an
+  type: fricative
+- symbol: _ang
+  type: fricative
+- symbol: _ap
+  type: fricative
+- symbol: _ak
+  type: fricative
+- symbol: _ei
+  type: fricative
+- symbol: _oi
+  type: fricative
+- symbol: _ou
+  type: fricative
+- symbol: _on
+  type: fricative
+- symbol: _ong
+  type: fricative
+- symbol: _ok
+  type: fricative
+- symbol: _ung
+  type: fricative
+- symbol: _uk
+  type: fricative
+- symbol: _in
+  type: fricative
+- symbol: _ing
+  type: fricative
+- symbol: _it
+  type: fricative
+- symbol: _ik
+  type: fricative
+- symbol: _ui
+  type: fricative
+- symbol: _un
+  type: fricative
+- symbol: _ut
+  type: fricative
+- symbol: _eu
+  type: fricative
+- symbol: _eng
+  type: fricative
+- symbol: _ek
+  type: fricative
+- symbol: _im
+  type: fricative
+- symbol: _ip
+  type: fricative
+- symbol: _em
+  type: fricative
+- symbol: _ep
+  type: fricative
+- symbol: _oek
+  type: fricative
+- symbol: _eoi
+  type: fricative
+- symbol: _eon
+  type: fricative
+- symbol: _eot
+  type: fricative
+- symbol: _yun
+  type: fricative
+- symbol: _yut
+  type: fricative
+- symbol: _ot
+  type: fricative
+- symbol: _oeng
+  type: fricative
+- symbol: _iu
+  type: fricative
+- symbol: _yu
+  type: fricative
